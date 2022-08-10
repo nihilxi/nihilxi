@@ -2,7 +2,7 @@
 
 ## About me:
 
-Novice programmer here. I'm creating programs based on my newly acquired knowledge. Currently I am interested in  ```Cybersecurity``` .
+Novice programmer here. I'm creating programs based on my newly acquired knowledge. Currently I am interested in  ```Cybersecurity```.
 
 ## Know/Use:
 
