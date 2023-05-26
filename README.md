@@ -27,21 +27,22 @@ I am a 20-year-old technical computer science student from Poland. I have been p
 ## Tools & environment I'm working on : 
 
 <p align="center">
-
 <img height="35px" alt="Windows 10" src="https://img.shields.io/badge/Windows 10-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 <img height="35px" alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
+</p>
+<p align="center">
 <img height="35px" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-004880.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img height="35px" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</p>
+<p align="center">
 <img height="35px" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img height="35px" alt="XAMPP" src="https://img.shields.io/badge/XAMPP-dba54d.svg?style=for-the-badge&logo=xampp&logoColor=white"/>
-</br></br>
-  
 </p>
 
 ## You can find me there:
 
 <p align="center">
 <a target="_blank" href="https://stackoverflow.com/users/16190457/xperga?tab=profile"><img height="35px" alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a target="_blank" href="https://www.virustotal.com/gui/user/Fast_Neo"><img height="35px" alt="Virustotal" src="https://img.shields.io/badge/-Virustotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/></a>
-<a target="_blank" href="https://www.hackthebox.eu/home/users/profile/758522"><img height="35px" alt="HackTheBox" src="https://img.shields.io/badge/-HackTheBox-00540f?style=for-the-badge&logo=HackTheBox&logoColor=white"/></a>
-<a target="_blank" href="https://www.hackerrank.com/xperga"><img height="35px" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.hackerrank.com/xperga"><img height="35px" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a target="_blank" href="discordapp.com/users/402082941443768320"><img height="35px" alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
