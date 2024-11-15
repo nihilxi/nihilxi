@@ -4,7 +4,6 @@
 
 - I use daily: `C++`, `Python`
 - I learn: `Rust`
-- I use **Arch Linux**
 
 Codewars: [Link](https://www.codewars.com/users/Nihilx)
 
